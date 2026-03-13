@@ -1,1 +1,1 @@
-# Osint_scanner
+# osint-scanner
